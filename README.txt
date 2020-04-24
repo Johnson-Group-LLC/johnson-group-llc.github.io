@@ -1,9 +1,12 @@
-THEME: Law - Free Bootstrap 4 Theme
-AUTHOR: uiCookies.com
-LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
-AUTHOR URI: https://uiCookies.com/
-Twitter: https://twitter.com/probootstrap
-Facebook: https://facebook.com/probootstrap
+
+TITLE: 
+Solution - 100% Fully Responsive Free HTML5 Bootstrap 4 Template
+
+AUTHOR:
+DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+Website: http://gettemplates.co/ http://freehtml5.co/
+Released
+
 
 
 CREDITS:
@@ -14,32 +17,9 @@ http://getbootstrap.com/
 jQuery
 http://jquery.com/
 
-Google Fonts
-https://www.google.com/fonts/
+Owl Carousel
+https://owlcarousel2.github.io/OwlCarousel2/
 
-Icomoon
-https://icomoon.io/app/
+Demo Images:
+http://unsplash.com
 
-Demo Images
-https://unsplash.com
-
-WayPoints
-http://imakewebthings.com/waypoints/
-
-Animate.css
-https://daneden.github.io/animate.css/
-
-Slick Slider
-https://kenwheeler.github.io/slick/
-
-FontAwesome
-https://fontawesome.com/
-
-Flaticon
-https://flaticon
-
-Ionicons
-https://ionicons.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
